@@ -1,0 +1,202 @@
+/*  . (titik Untuk Class)
+    # (Hastag Untuk ID) */
+
+
+body
+{
+    font-family: ;
+    font-size: 14px;
+}
+
+    .logo
+    {
+        font-family: "Comic Sans MS";
+        color: tomato;
+        text-shadow: 2px 2px 2px #000;
+    }
+
+ul#nav
+{
+    margin: 0;p
+    padding: 0;
+}
+
+ul#nav li
+{
+    list-style:none;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+ul#nav li a
+{
+    text-decoration: none;
+    padding: 10px 0;
+    color: deeppink;
+    font-weight: bold;
+}
+
+ul#nav li a:hover
+{
+    color: tomato;
+    border-bottom: 3px solid tomato;
+}
+
+button{
+    background-color: pink;
+    color:deeppink;
+    border-radius: 12px;
+}
+
+input{
+    background-color:yellow;
+}
+
+    .buttonproses
+    {
+        background: aqua;
+        color: black;
+    }
+
+    .img{
+        border: 20px solid grey;
+    }
+
+    .img:hover{
+        border: 20px solid pink;
+    }
+
+    .table, .td, th {  
+        border: 2px solid #ddd;
+        text-align: center;
+    }
+
+    .tableheader{
+        background-color: pink;
+    }
+
+    .tableheader2
+    {
+        background-color: #d1d1d1;
+    }
+  
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+.tablekontak
+{
+    width: 80%;
+}
+  
+th, td {
+    padding: 15px;
+  }
+
+    #events_div{
+        height:300px;
+        overflow-y:scroll
+    }
+
+/* WILLIAM RAYHAN HARSONO */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 00000061964 */
